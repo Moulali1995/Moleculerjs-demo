@@ -1,7 +1,7 @@
 [![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services)
 
-# molecular-demo
-moleculerjs framework demo example.
+# Molecularjs-demo
+Moleculerjs framework demo example.
 
 ## NPM scripts
 
